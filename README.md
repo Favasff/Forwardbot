@@ -42,6 +42,24 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://youtu.be/B6jQGOJDVi0)
 
+  ### 📶 DEPLOYEMENT SUPPORT
+
+<details><summary>🔥 Deploy To Koyeb 🔥</summary>
+
+<p>
+
+<br>                 
+
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Favasff/Forwardbot&branch=main&name=forwardbotv1" >
+
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
+
+</a>
+
+</p>
+
+</details>
+
 ### Legendary Way:
 #### On Linux Or VPS:
 
