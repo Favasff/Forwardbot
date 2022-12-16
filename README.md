@@ -1,4 +1,4 @@
-# 📠 Auto Forward V2
+J# 📠 Auto Forward V2
 A Simple Bot can copy any media to a private channel provided!
 Without Admin Permission in FROM_CHANNEL
 Only Give Permission In your Telegram Personal Channel
@@ -59,6 +59,8 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 </p>
 
 </details>
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 ### Legendary Way:
 #### On Linux Or VPS:
